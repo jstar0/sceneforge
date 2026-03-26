@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "nodes": [
+    {
+      "id": "imported-anchor",
+      "title": "Imported Anchor",
+      "description": "A fixture proving that a local snapshot can be restored.",
+      "kind": "box",
+      "color": "#60a5fa",
+      "accent": "#bfdbfe",
+      "position": { "x": 0.5, "y": 0.7, "z": -0.25 },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "rotationY": 0.1
+    }
+  ],
+  "selectedId": "imported-anchor",
+  "motionEnabled": false
+}
