@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "SceneForge"
+message: "If SceneForge helps your spatial-interface experiments, please cite this work."
+type: software
+authors:
+  - family-names: JStar
+    given-names: J
+version: 0.1.0
+date-released: 2026-09-04
+license: MIT
+abstract: "A procedural Three.js scene lab with a typed scene graph, bounded keyboard interaction, reduced-motion controls, and local export."
